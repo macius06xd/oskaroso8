@@ -1,0 +1,3 @@
+# Plik favicon.ico powinien być dodany do folderu public/
+# Można go wygenerować na stronie: https://favicon.io/
+# Lub użyć prostego narzędzia online do konwersji obrazka na favicon
